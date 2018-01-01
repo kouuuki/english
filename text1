@@ -43,6 +43,7 @@ may == might
 
 must = プレッシャー(義務,推定)
 must not = してはいけない
+must be = 〜に違いない
 
 
 can, could
@@ -51,3 +52,7 @@ can = 可能性, 可能
 can = いつでも起こる(「いつでも英語話せるぜ！」みたいな)
 cannot be = ありえない
 it cannot be true = それが真実のはずがない
+
+
+must be 違いない
+cannot be のはずがない
